@@ -1,0 +1,33 @@
+body{
+    background-color: darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: white;
+}
+li{
+    color:white;
+    text-decoration:overline;
+    font-weight:bold;
+}
+h3{
+    color:white;
+    font-style:italic;
+}
+h1{
+    color:darkslategray;
+    font-weight:bold;
+    background-image:-webkit-image-set("https://img.freepik.com/foto-gratis/fondo-abstracto-azul-degradado-estudio-azul-oscuro-liso-vineta-negra_1258-68081.jpg");
+}
+dt{
+    color:white;
+
+}
+#boton{
+    background-color:black;
+    color:white;
+    border-end-end-radius: 40%;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    font-size: 20px;
+}
